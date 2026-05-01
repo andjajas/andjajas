@@ -1,4 +1,7 @@
 ## Hi there 👋
+- 🔭 I’m currently working on 42 curriculum projects push_swap and get_next_line
+- 🌱 I’m currently learning C, Python and Linux shells
+- 👯 I’m looking to collaborate on a coding project in Python
 
 <!--
 **andjajas/andjajas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
