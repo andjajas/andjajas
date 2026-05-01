@@ -1,6 +1,9 @@
 ## Hi there 👋
-- 🔭 I’m currently working on projects push_swap and get_next_line (part of the 42 school curriculum, at Codam, Amsterdam, The Netherlands)
-- 🌱 I’m currently learning C, Python and Linux shells
+
+My name is André, I'm a 42 Network trainee in computer science and interested in coding!
+
+- 🔭 I’m currently working on push_swap and get_next_line projects (part of the 42 school curriculum)
+- 🌱 I’m currently learning C, Python and Linux shell
 - 👯 I’m looking to collaborate on a coding project in Python
 
 <!--
