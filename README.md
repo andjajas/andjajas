@@ -1,5 +1,5 @@
 ## Hi there 👋
-- 🔭 I’m currently working on 42 curriculum projects push_swap and get_next_line
+- 🔭 I’m currently working on projects push_swap and get_next_line (part of the 42 school curriculum, at Codam, Amsterdam, The Netherlands)
 - 🌱 I’m currently learning C, Python and Linux shells
 - 👯 I’m looking to collaborate on a coding project in Python
 
