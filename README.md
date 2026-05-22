@@ -4,7 +4,7 @@ My name is André, I'm a 42 Network trainee in computer science and interested i
 
 - 🔭 I’m currently working on push_swap and get_next_line projects (part of the 42 college curriculum)
 - 🌱 I’m currently learning C, Python and Linux shell
-- 👯 I’m looking to collaborate on coding projects in Python
+- 👯 I’m looking to collaborate on coding projects in Python or C
 
 <!--
 **andjajas/andjajas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
