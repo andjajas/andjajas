@@ -1,10 +1,12 @@
 ## Hi there 👋
 
-My name is André, I'm a 42 Network trainee in computer science and interested in coding!
+My name is André,
+I have a background in Biomedical Sciences, Traffic Control, Security, Customer Service, Catering,
+and am now a trainee at Codam (Amsterdam, part of 42 Network) because of my latest interest which is coding!
 
-- 🔭 I’m currently working on push_swap and get_next_line projects (part of the 42 college curriculum)
-- 🌱 I’m currently learning C, Python and Linux shell
-- 👯 I’m looking to collaborate on coding projects in Python or C
+- 🔭 My current ongoing project is get_next_line (part of the 42 curriculum)
+- 🌱 Programming languages: C, Python
+- 👯 I’m looking to collaborate on coding projects in C or Python
 
 <!--
 **andjajas/andjajas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
