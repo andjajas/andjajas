@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 My name is André,
-I have a background in Biomedical Sciences, Traffic Control, Security, Customer Service, Catering,
+I have a background in Biomedical Sciences, Management, Traffic Control, Security, Customer Service, Catering,
 and am now a trainee at Codam (Amsterdam, part of 42 Network) because of my latest interest which is coding!
 
 - 🔭 My current ongoing project is get_next_line (part of the 42 curriculum)
