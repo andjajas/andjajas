@@ -4,7 +4,7 @@ My name is André,
 I have a background in Biomedical Sciences, Traffic Control Management, Customer Service,
 and am now a trainee at Codam (Amsterdam, part of 42 Network) because of my latest interest, which is coding!
 
-- 🔭 My current ongoing project is get_next_line (part of the 42 curriculum)
+- 🔭 My current ongoing group project (part of the 42 curriculum) is A-Maze-ing in which we have to design a 2D maze with Python
 - 🌱 Programming languages: C, Python
 - 👯 I’m looking to collaborate on coding projects in C or Python
 
