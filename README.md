@@ -2,7 +2,7 @@
 
 My name is André,
 
-I am a coding trainee/student at Codam (Amsterdam, part of 42 Network).\n
+I am a coding trainee/student at Codam (Amsterdam, part of 42 Network).<br/>
 I have a background in Biomedical Sciences, Traffic Control Management, Customer Service.
 
 - 🔭 My current ongoing group project (part of the 42 curriculum) is A-Maze-ing in which we have to design a 2D maze with Python
