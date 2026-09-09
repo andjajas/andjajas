@@ -7,16 +7,22 @@ I have a background in Biomedical Sciences, Traffic Control Management, Customer
 
 - 🔭 My current running projects at Codam are:<br>
   > Born2beroot = basic system administration: Debian/OS setup in a Virtual Machine environment<br>
+
   > Python modules (6 to 9) = getting good with Python language<br>
 
 - 👍💪 Finished 42 Curriculum projects at Codam:<br>
   > Libft = in C, make your own library containing functions that mimic libc library functions,
     and additional utility functions (useful for later in the curriculum)<br>
+
   > ft_printf = in C, recreate your own version of the original printf function<br>
+
   > get_next_line = in C, write functions to deal with reading from a file and memory management<br>
+
   > push_swap = in C, make a program that can sort a list of random numbers, using only 2 stacks and algorithm
     restrictions<br>
+
   > a-maze-ing = in Python, write a program that can create a 2D graphical Maze with a Pathfinder and other extra's<br>
+
   > Python modules (0 to 5) = getting familiar with Python language<br>
 
 - 🌱 Learning programming languages: C, Python<br>
