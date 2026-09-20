@@ -6,9 +6,7 @@ I am a coding trainee/student at Codam (Amsterdam, part of 42 Network).<br/>
 I have a background in Biomedical Sciences, Traffic Control Management, Customer Service.<br>
 
 - 🔭 My current running projects at Codam are:<br>
-  > Born2beroot = basic system administration: Debian/OS setup in a Virtual Machine environment<br>
-
-  > Python modules (6 to 9) = getting good with Python language<br>
+  > Python modules (7 to 9) = getting good with Python language<br>
 
 - 👍💪 Finished 42 Curriculum projects at Codam:<br>
   > Libft = in C, make your own library containing functions that mimic libc library functions,
@@ -23,7 +21,9 @@ I have a background in Biomedical Sciences, Traffic Control Management, Customer
 
   > a-maze-ing = in Python, write a program that can create a 2D graphical Maze with a Pathfinder and other extra's<br>
 
-  > Python modules (0 to 5) = getting familiar with Python language<br>
+  > Born2beroot = basic system administration: Debian/OS setup in a Virtual Machine environment<br>
+
+  > Python modules (0 to 6) = getting familiar with Python language<br>
 
 - 🌱 Learning programming languages: C, Python<br>
 
