@@ -6,7 +6,10 @@ I am a coding trainee/student at Codam (Amsterdam, part of 42 Network).<br/>
 I have a background in Biomedical Sciences, Traffic Control Management, Customer Service.<br>
 
 - 🔭 My current running projects at Codam are:<br>
-  > Python modules (7 to 9) = getting good with Python language<br>
+  > Call Me Maybe = in Python,
+  Description: This project introduces function calling in Large Language Models by building a system that translates natural language prompts
+  into structured   function calls with typed arguments. You'll implement constrained decoding to guarantee valid JSON output,
+  achieving near-perfect reliability with a small 0.5B parameter model, bridging the gap between human language and computer-executable operations.
 
 - 👍💪 Finished 42 Curriculum projects at Codam:<br>
   > Libft = in C, make your own library containing functions that mimic libc library functions,
@@ -23,7 +26,7 @@ I have a background in Biomedical Sciences, Traffic Control Management, Customer
 
   > Born2beroot = basic system administration: Debian/OS setup in a Virtual Machine environment<br>
 
-  > Python modules (0 to 6) = getting familiar with Python language<br>
+  > Python modules (0 to 9) = getting familiar with Python language<br>
 
 - 🌱 Learning programming languages: C, Python<br>
 
